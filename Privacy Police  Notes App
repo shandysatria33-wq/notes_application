@@ -1,0 +1,102 @@
+Privacy Policy – Notes App
+
+Last Updated: 7 May 2026
+
+Welcome to Notes App. Your privacy is important to us. This Privacy Policy explains how Notes App collects, uses, stores, and protects user information when using the application.
+
+By using Notes App, you agree to the practices described in this Privacy Policy.
+
+1. About the Application
+
+Notes App is a Flutter-based mobile application designed to help users create, edit, search, and manage digital notes easily and efficiently. The application includes features such as:
+
+User login
+Create and edit notes
+Rich text formatting
+Insert images into notes
+Search notes
+Delete notes
+User profile and logout
+2. Information We Collect
+
+Currently, Notes App only collects limited user information necessary for application functionality.
+
+Information collected may include:
+Email address
+Password (used only for login simulation/static authentication)
+Notes content created by users
+Images selected from the device gallery
+Note dates and titles
+3. How We Use Information
+
+The collected information is used solely to:
+
+Allow users to log into the application
+Display user profile information
+Create and manage notes
+Enable note search functionality
+Improve application usability and user experience
+
+We do not sell, rent, or share user data with third parties.
+
+4. Data Storage
+
+At the current development stage:
+
+Data is stored locally/in memory on the user’s device.
+Notes are not uploaded to any cloud server.
+Closing or reinstalling the application may cause stored notes to be lost.
+No external database or online synchronization is currently implemented.
+5. Permissions
+
+Notes App may request access to:
+
+Device Gallery / Photos
+
+Used only for:
+
+Selecting images to insert into notes.
+
+The application does not access photos without user permission.
+
+6. Data Security
+
+We strive to protect user data; however:
+
+Login authentication is currently hardcoded/static.
+The application does not yet implement advanced encryption or cloud security.
+Since this is still a prototype/development version, security features may be limited.
+
+Future updates may include:
+
+Firebase or SQLite integration
+Secure authentication
+PIN lock for notes
+Cloud backup and synchronization
+7. Third-Party Services
+
+Currently, Notes App does not integrate with:
+
+Advertising services
+Analytics platforms
+Third-party data collection services
+
+Future versions may use services such as Firebase for authentication and cloud storage.
+
+8. Children’s Privacy
+
+Notes App is not specifically directed toward children under 13 years old. We do not knowingly collect personal information from children.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any updates will be posted within the application or related distribution platform.
+
+Users are encouraged to review this page periodically for changes.
+
+10. Contact Information
+
+If you have questions or concerns regarding this Privacy Policy, you may contact the developer through the application platform or distribution page.
+
+11. Consent
+
+By using Notes App, you consent to this Privacy Policy and agree to its terms.
